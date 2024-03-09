@@ -1,0 +1,85 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.chat-BTV {
+  box-sizing: border-box;
+  padding: 1.8rem 0rem 37.1rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(292.35deg, #45a7cc 101.83%, #071324 200%);
+}
+.chat-BTV .img-2-JHD {
+  margin-bottom: 11.6rem;
+  width: 10rem;
+  height: 10rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.chat-BTV .auto-group-fyy9-3Vh {
+  margin: 0rem 77.3rem 9.1rem 26.6rem;
+  width: calc(100% - 103.9rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.chat-BTV .auto-group-fyy9-3Vh .image-18-NXy {
+  margin-right: 4.3rem;
+  width: 12.9rem;
+  height: 15.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.chat-BTV .auto-group-fyy9-3Vh .item-1234567890-JRd {
+  margin-top: 1.4rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.chat-BTV .auto-group-s8lf-bQj {
+  margin: 0rem 23.5rem 0rem 26.6rem;
+  width: calc(100% - 50.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.chat-BTV .auto-group-s8lf-bQj .img-1-KrX {
+  margin-right: 4.3rem;
+  width: 12.9rem;
+  height: 13.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.chat-BTV .auto-group-s8lf-bQj .silveroakuniacin-FkB {
+  margin-bottom: 0.1rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

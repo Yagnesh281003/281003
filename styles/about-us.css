@@ -1,0 +1,89 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.about-us-zX1 {
+  width: 100%;
+  height: 98.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #0a061d;
+}
+.about-us-zX1 .artai-jUb {
+  width: 24.5rem;
+  height: 18.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 61.6rem;
+  top: 12.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Grey Qo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-zX1 .rectangle-1-1h1 {
+  width: 77.8rem;
+  height: 42.8rem;
+  position: absolute;
+  left: 37.5rem;
+  top: 31.8rem;
+  background-color: #d9d9d9;
+  border-radius: 3.1rem;
+}
+.about-us-zX1 .this-is-a-assignment-of-web-technology-which-is-design-by-yagnesh-bhavsar-jd1 {
+  width: 65.1rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 42.4rem;
+  top: 34.1rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.48;
+  color: #000000;
+  font-family: Grenze, 'Source Sans Pro';
+}
+.about-us-zX1 .image-17-yXM {
+  width: 7.2rem;
+  height: 7.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 106rem;
+  top: 65rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-us-zX1 .bottom-rightpng-66B {
+  width: 48rem;
+  height: 155.489rem;
+  position: relative;
+  left: 103.2rem;
+  top: 0;
+  background-size: 100% 100%;
+  background-image: url('../assets/bottom-rightpng-5Mq.png');
+}
+.about-us-zX1 .mid-leftpng-bHq {
+  width: 48rem;
+  height: 142.944rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-image: url('../assets/mid-leftpng-wy9.png');
+}

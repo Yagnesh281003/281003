@@ -1,0 +1,117 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.car-ZXV {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #0a061d;
+}
+.car-ZXV .auto-group-vze3-iQP {
+  box-sizing: border-box;
+  padding: 4.4rem 1.6rem 0rem 0rem;
+  height: 98.2rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.car-ZXV .auto-group-vze3-iQP .auto-group-gxxf-Edd {
+  margin-right: 0.6rem;
+  width: 74.8rem;
+  height: 142.944rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.car-ZXV .auto-group-vze3-iQP .auto-group-gxxf-Edd .mid-leftpng-B35 {
+  width: 48rem;
+  height: 142.944rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-image: url('../assets/mid-leftpng-S1D.png');
+}
+.car-ZXV .auto-group-vze3-iQP .auto-group-gxxf-Edd .image-3-6fq {
+  width: 50rem;
+  height: 31.4rem;
+  position: absolute;
+  left: 18.4rem;
+  top: 58.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 8.5rem;
+}
+.car-ZXV .auto-group-vze3-iQP .auto-group-gxxf-Edd .image-1-1no {
+  width: 50rem;
+  height: 30.6rem;
+  position: absolute;
+  left: 18.4rem;
+  top: 16.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 6.9rem;
+}
+.car-ZXV .auto-group-vze3-iQP .car-jio {
+  margin-top: 0.7rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Great Vibes, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.car-ZXV .auto-group-cuvb-r2j {
+  width: 67.3rem;
+  height: 155.489rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.car-ZXV .auto-group-cuvb-r2j .bottom-rightpng-MkB {
+  width: 48rem;
+  height: 155.489rem;
+  position: relative;
+  left: 19.3rem;
+  top: 0;
+  background-size: 100% 100%;
+  background-image: url('../assets/bottom-rightpng-L3H.png');
+}
+.car-ZXV .auto-group-cuvb-r2j .image-2-ToD {
+  width: 46.6rem;
+  height: 28.9rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 20.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 6.9rem;
+}
+.car-ZXV .auto-group-cuvb-r2j .image-4-ZrF {
+  width: 50rem;
+  height: 36.3rem;
+  position: absolute;
+  left: 0;
+  top: 58.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 9.3rem;
+}

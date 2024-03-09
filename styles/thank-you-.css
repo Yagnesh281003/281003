@@ -1,0 +1,68 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.thank-you--uXM {
+  box-sizing: border-box;
+  padding-right: 49.65rem;
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #0a061d;
+}
+.thank-you--uXM .mid-leftpng-3dZ {
+  margin-right: 1.65rem;
+  width: 48rem;
+  height: 142.944rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/mid-leftpng-879.png');
+  flex-shrink: 0;
+}
+.thank-you--uXM .auto-group-lxmd-kns {
+  margin-top: 23.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.thank-you--uXM .auto-group-lxmd-kns .thank-you-Hno {
+  margin-bottom: 13.05rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Great Vibes, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.thank-you--uXM .auto-group-lxmd-kns .for-submitting-your-response-bYb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.1375;
+  color: #ffffff;
+  font-family: Graduate, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
